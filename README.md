@@ -12,3 +12,6 @@ This project is to assist the data analytics teams from AutosRUs on the MechaCar
 By performing linear regression on the mpg dataset, the following result was shown. 
 ![Deliverable1](Images/Deliverable1.PNG)
 
+- As shown by the P-values in the previous data, Spoiler Angle, AWS, and Vehicle Weight all provides the greatest non-random variance to MPG. 
+- The slope of the linear model cannot be considered as zero, as the Estimates of the Coefficients from the data shown above shows a non-zero value. 
+- The multiple R-squared value from the data shown above is 0.7149, which can be considered as an effective regression model.
