@@ -8,4 +8,7 @@ This project is to assist the data analytics teams from AutosRUs on the MechaCar
 3. Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 4. Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
+## Linear Regression (Deliverable 1)
+By performing linear regression on the mpg dataset, the following result was shown. 
+![Deliverable1](Images/Deliverable1.PNG)
 
