@@ -17,7 +17,7 @@ sc_df = read.csv('Suspension_Coil.csv', check.names=F, stringsAsFactors = F)
 total_summary <- sc_df %>% summarize(Mean=mean(PSI), Median= median(PSI), Variance= var(PSI), SD= sd(PSI))
 
 # summary of the csv file
-m_summary <- table %>% group_by(Manufacturing_Lot) %>%  summarize(Mean=mean(PSI), Median= median(PSI), Variance= var(PSI), SD= sd(PSI))
+mlot_summary <- sc_df %>% group_by(Manufacturing_Lot) %>%  summarize(Mean=mean(PSI), Median= median(PSI), Variance= var(PSI), SD= sd(PSI))
 
 # End of Deliverable 2
 
@@ -32,3 +32,4 @@ t.test(x=lot2$PSI, mu=1500)
 # subset for lot 3
 lot3 <- subset(sc_df, Manufacturing_Lot=='Lot3')
 t.test(x=lot3$PSI, mu=1500)
+
