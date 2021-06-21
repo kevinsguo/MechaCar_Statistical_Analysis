@@ -42,4 +42,4 @@ The following are the t-test results performed on the provided suspension coil d
 
 By interpreting the p-value calculating during the t-tests, we can determine how PSI data from each individual manufacturing lot contributes to the overall average PSI, and find any potential outlayers that would create any potential quality control hazards. 
 
-From the first data set, the average p-value is 0.06028.
+From the first data set, the average p-value is 0.06028. 
