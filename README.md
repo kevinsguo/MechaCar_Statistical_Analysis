@@ -30,4 +30,11 @@ The following is the data analysis performed by grouping Manufacturing Lots.
 THe previous set of data shows that manufacturing lot 3 does not pass the specification parameter for the 100 PSI requirement. As a result, it is highly recommend that Lot 3 undergoes a qualify control to properly regulate its manufacturing consistency, and determine the cause of the unreliable productions. 
 
 ## T-Tests on Suspension Coils
+The following are the results performed on the provided suspension coil data. 
+
+![sc_test](Images/sc_test.PNG)
+![lot1](Images/lot1.PNG)
+![lot2](Images/lot2.PNG)
+![lot3](Images/lot3.PNG)
+
 
