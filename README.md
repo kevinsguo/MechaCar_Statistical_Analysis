@@ -19,3 +19,4 @@ By performing linear regression on the mpg dataset, the following result was sho
 ## Suspension Coils Summary (Deliverable 2)
 The following is the Mean, Median, Variance and SD values. 
 ![averages](Images/averages.PNG)
+
