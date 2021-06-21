@@ -30,7 +30,7 @@ The following is the data analysis performed by grouping Manufacturing Lots.
 THe previous set of data shows that manufacturing lot 3 does not pass the specification parameter for the 100 PSI requirement. As a result, it is highly recommend that Lot 3 undergoes a qualify control to properly regulate its manufacturing consistency, and determine the cause of the unreliable productions. 
 
 ## T-Tests on Suspension Coils
-The following are the results performed on the provided suspension coil data. 
+The following are the t-test results performed on the provided suspension coil data. 
 
 ![sc_test](Images/sc_test.PNG)
 
@@ -40,4 +40,6 @@ The following are the results performed on the provided suspension coil data.
 
 ![lot3](Images/lot3.PNG)
 
+By interpreting the p-value calculating during the t-tests, we can determine how PSI data from each individual manufacturing lot contributes to the overall average PSI, and find any potential outlayers that would create any potential quality control hazards. 
 
+From the first data set, the average p-value is 0.06028.
