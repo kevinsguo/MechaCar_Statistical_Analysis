@@ -16,7 +16,14 @@ By performing linear regression on the mpg dataset, the following result was sho
 - The slope of the linear model cannot be considered as zero, as the Estimates of the Coefficients from the data shown above shows a non-zero value. 
 - The multiple R-squared value from the data shown above is 0.7149, which can be considered as an effective regression model.
 
-## Suspension Coils Summary (Deliverable 2)
+## Summary Statistics on Suspension Coils
 The following is the Mean, Median, Variance and SD values. 
+
 ![averages](Images/averages.PNG)
+
+The manufacturer's specifications states that the suspension coil should not exceed 100 PSI. From the previous data, the Variance is showing a value of 62.3, which is well within the manufacturer's specifications. 
+
+The following is the data analysis performed by grouping Manufacturing Lots. 
+
+![mlot_summary](Images/mlot_summary.PNG)
 
