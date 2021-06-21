@@ -33,8 +33,11 @@ THe previous set of data shows that manufacturing lot 3 does not pass the specif
 The following are the results performed on the provided suspension coil data. 
 
 ![sc_test](Images/sc_test.PNG)
+
 ![lot1](Images/lot1.PNG)
+
 ![lot2](Images/lot2.PNG)
+
 ![lot3](Images/lot3.PNG)
 
 
